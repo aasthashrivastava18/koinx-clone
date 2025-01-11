@@ -10,7 +10,7 @@ const Navbar = () => {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="flex-shrink-0">
-              <img className="h-10 w-auto" src="./src/assets/koinx logo.png"alt="KoinX Logo" />
+              <img className="h-10 w-auto" src="./src/assets/koinx logo.png"alt="KoinX" />
             </Link>
           </div>
 
